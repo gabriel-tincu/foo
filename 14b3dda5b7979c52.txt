@@ -1,0 +1,119 @@
+LINE LINE O
+TAB TAB O
+Jamie EX O
+Torres NNPS O
+
+LINE LINE O
+TAB TAB O
+How WRB O
+was VBD O
+your PRP$ O
+experience NN O
+? . O
+
+LINE LINE O
+TAB TAB O
+TAB TAB O
+
+LINE LINE O
+TAB TAB O
+$ $ O
+190.00 CD O
+
+LINE LINE O
+TAB TAB O
+TAB TAB O
+
+LINE LINE O
+TAB TAB O
+Custom WP B-PROD
+Amount RBS I-PROD
+TAB TAB O
+$ $ O
+190.00 CD O
+
+LINE LINE O
+TAB TAB O
+Total JJ O
+TAB TAB O
+$ $ O
+190.00 CD O
+
+LINE LINE O
+TAB TAB O
+TAB TAB O
+
+LINE LINE O
+TAB TAB O
+Jamie EX O
+Torres NNPS O
+530-864-0112 LS O
+
+LINE LINE O
+TAB TAB O
+TAB TAB O
+
+LINE LINE O
+TAB TAB O
+Visa FW O
+3734 LS O
+TAB TAB O
+1/30/2015 LS O
+, , O
+6:30 CD O
+PM PRP O
+# # O
+Okee CD O
+
+LINE LINE O
+TAB TAB O
+TAB TAB O
+
+LINE LINE O
+TAB TAB O
+© # O
+2015 LS O
+Square EX O
+, , O
+Inc. NNP O
+All NNP O
+rights NNS O
+reserved VBN O
+. . O
+
+1455 CD O
+Market NN O
+Street NNP O
+, , O
+Suite NNP O
+600 CD O
+, , O
+San NNP O
+Francisco NNP O
+, , O
+CA MD O
+94103 CD O
+
+LINE LINE O
+TAB TAB O
+Square EX O
+Privacy WRB O
+Policy NN O
+Map FW O
+data NNS O
+© # O
+OpenStreetMap RP O
+contributors NNS O
+Not RB O
+your PRP$ O
+receipt NN O
+? . O
+
+LINE LINE O
+TAB TAB O
+Manage EX O
+preferences VBZ O
+for IN O
+digital JJ O
+receipts NNS O
+

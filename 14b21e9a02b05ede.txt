@@ -1,0 +1,181 @@
+LINE LINE O
+TAB TAB O
+farm WP$ O
+: : O
+table JJ O
+
+LINE LINE O
+TAB TAB O
+How WRB O
+was VBD O
+your PRP$ O
+experience NN O
+? . O
+
+LINE LINE O
+TAB TAB O
+TAB TAB O
+
+LINE LINE O
+TAB TAB O
+$ $ O
+27.41 CD O
+
+LINE LINE O
+TAB TAB O
+TAB TAB O
+
+LINE LINE O
+TAB TAB O
+Savory WRB B-PROD
+Tart RBS I-PROD
+TAB TAB O
+$ $ O
+7.50 CD O
+
+LINE LINE O
+TAB TAB O
+JUICE WP$ B-PROD
+TAB TAB O
+$ $ O
+3.00 CD O
+
+LINE LINE O
+TAB TAB O
+Egg UH B-PROD
+Croissant RBS I-PROD
+TAB TAB O
+$ $ O
+7.50 CD O
+
+LINE LINE O
+TAB TAB O
+Macchiato TO B-PROD
+TAB TAB O
+$ $ O
+3.00 CD O
+
+LINE LINE O
+TAB TAB O
+Subtotal PDT O
+TAB TAB O
+$ $ O
+21.00 CD O
+
+LINE LINE O
+TAB TAB O
+Sales NNS O
+Tax WP$ O
+( # O
+8.75 CD O
+% NN O
+) : O
+TAB TAB O
+$ $ O
+1.84 CD O
+
+LINE LINE O
+TAB TAB O
+Tip UH O
+TAB TAB O
+$ $ O
+4.57 CD O
+
+LINE LINE O
+TAB TAB O
+Total JJ O
+TAB TAB O
+$ $ O
+27.41 CD O
+
+LINE LINE O
+TAB TAB O
+TAB TAB O
+
+LINE LINE O
+TAB TAB O
+farm WP$ O
+: : O
+table JJ O
+754 CD O
+Post JJS O
+St JJS O
+San NNP O
+Francisco NNP O
+, , O
+CA MD O
+94109 CD O
+
+LINE LINE O
+TAB TAB O
+Shop UH O
+Online EX O
+
+LINE LINE O
+TAB TAB O
+TAB TAB O
+
+LINE LINE O
+TAB TAB O
+AMEX UH O
+1005 LS O
+TAB TAB O
+1/25/2015 LS O
+, , O
+8:25 CD O
+AM NNP O
+# # O
+fOHz WP$ O
+
+LINE LINE O
+TAB TAB O
+TAB TAB O
+
+LINE LINE O
+TAB TAB O
+© # O
+2015 LS O
+Square EX O
+, , O
+Inc. NNP O
+All NNP O
+rights NNS O
+reserved VBN O
+. . O
+
+1455 CD O
+Market NN O
+Street NNP O
+, , O
+Suite NNP O
+600 CD O
+, , O
+San NNP O
+Francisco NNP O
+, , O
+CA MD O
+94103 CD O
+
+LINE LINE O
+TAB TAB O
+Square EX O
+Privacy WRB O
+Policy NN O
+Map FW O
+data NNS O
+© # O
+OpenStreetMap RP O
+contributors NNS O
+Not RB O
+your PRP$ O
+receipt NN O
+? . O
+
+LINE LINE O
+TAB TAB O
+Manage EX O
+preferences VBZ O
+for IN O
+digital JJ O
+receipts NNS O
+
